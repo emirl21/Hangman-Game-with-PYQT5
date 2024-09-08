@@ -5,3 +5,10 @@ fotot.py - It is a python file where all images are uploaded and then the file i
 PNG files are created with Photoshop the complete the Hangman Step-by-step
 personi.psd - Has all the files together
 main.ui - Similar to designer.ui but few changes before
+
+
+mainfile.py
+The File is Generated from commmand shell prompt in the folder:
+pyuic5 -x designer.ui -o mainfile.py
+
+Then, the file is edited and 4 main functions are addded to make the game running, it is quite and old project so you may find some typo 
