@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Hangmani">
+    <file>kemba djatht.png</file>
+    <file>kemba majt.png</file>
+    <file>krahu djatht.png</file>
+    <file>krahu majt.png</file>
+    <file>trupi.png</file>
+    <file>Vija 1.png</file>
+    <file>vija 2.png</file>
+    <file>vija 3.png</file>
+    <file>koka1.png</file>
+  </qresource>
+</RCC>
